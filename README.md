@@ -10,7 +10,7 @@ Our writeup are currently written in Japanese, so plz use translator. Thanks.
 
 ## Open xINT CTF 2022
 
-**[HEXA OSINT CTF](https://openxintctf.wixsite.com/pinja) : 29th Oct 2022 12:00 -  18:00 JST (6hrs)**
+**[Open xINT CTF](https://openxintctf.wixsite.com/pinja) : 29th Oct 2022 12:00 -  18:00 JST (6hrs)**
 
 - [Open xINT CTF 2022 Write-up (Team 40548F)](https://zenn.dev/kn1cht/articles/open-xint-2022-40548f)
 
